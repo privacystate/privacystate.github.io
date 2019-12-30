@@ -1,12 +1,6 @@
 ---
 redirect_from: "/"
 ---
+Hay una diferencia entre Privacidad, Seguridad y Anonimato. Esta guía tiene como objetivo la Privacidad y la Libertad de los usuarios, lo que en ocasiones puede implicar Seguridad, Anonimato o ambos.
 
-
-1) rename it in main_page.md
-
-2) Edit this page with your content
-
-
-NOTE: 
-- do not delete "redirect_from" rule from the front matter of this file
+Lo primero que debes saber es el valor de tus datos. Hay empresas multimillonarias que están dando sus principales servicios de forma gratuita, piensa en Google o Facebook. Entonces, ¿dónde está el truco? Sí, tienes razón: TÚ ERES EL DINERO. Bueno, tus datos son el dinero.
